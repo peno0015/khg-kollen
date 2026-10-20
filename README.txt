@@ -8,3 +8,5 @@ OBS: Detta ger alla autentiserade konton i projektet full åtkomst till artiklar
 Inga artiklar kopieras automatiskt från v1. Exportera JSON i v1 och importera den i v2 efter inloggning.
 Import sammanfogar via dokument-ID, den raderar inte andra artiklar.
 Firebase kräver nätverk. Dela inte kontolösenord offentligt.
+
+V3: Bäst före-dagen visas som 'Sista dagen' under Att göra. Datumkontroll aktiveras först följande dag. Ingen ändring av databasens struktur eller säkerhetsregler.
